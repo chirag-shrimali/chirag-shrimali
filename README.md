@@ -1,5 +1,4 @@
 ## Hi there 👋
-<br>
 This is my First Git-hub Project.
 <br>
 Author - Chirag Shrimali
