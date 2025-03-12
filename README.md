@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is my First Git-hub Project.
 <br>
-Author - Chirag Shrimali
+Author - Chirag-shrimali
 
 <!--
 **chirag-shrimali/chirag-shrimali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
