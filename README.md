@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Chirag Shrimali
 A passionate Engineer || Frontend Developer from India
 
-<img align="right" alt="coding" width="400" src="[https://github.com/user-attachments/assets/85c11f6f-2c08-4c12-a57d-a847384236fa](https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif)" />
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 
 Email Me 👉 ✉️ chiragshrimali2147@gmail.com For Collaboration/Project or Anything Else. 😊😊
