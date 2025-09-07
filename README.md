@@ -1,14 +1,28 @@
 # 💫 Hi 👋, I'm Chirag Shrimali
 A passionate Engineer || Frontend Developer from India
 
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/85c11f6f-2c08-4c12-a57d-a847384236fa" />
+
+
 Email Me 👉 ✉️ chiragshrimali2147@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 I’m currently working on: C++ Projects
-- 🌱 I’m currently learning: C++ , Sql , Java , Dsa , Javascript
-- 💬 Ask me about: Collaboration, Tech Support
-- 📫 How to reach me: chiragshrimali2147@gmail.com
-- 😄 Pronouns: Chirag Shrimali
-- ⚡ Fun fact: I Love Tech and Tech Love Me
+🔭 2nd Year Computer Engineering Student 
+
+🌱 Currently learning & exploring:  
+   - C++ | Java | JavaScript | SQL | DSA  
+💡 Already worked with:  
+   - C | HTML | CSS
+
+💬 Open to Collaboration & Tech Support in:  
+   - Building projects with C++ / Java / JavaScript  
+   - Structuring databases with SQL  
+   - Web development using HTML & CSS  
+   - Problem-solving with DSA 
+
+📫 Reach me at: chiragshrimali2147@gmail.com 
+😄 Pronouns: Chirag Shrimali  
+
+⚡ Fun fact: I’m not just studying Computer Engineering — I’m crafting my journey with C, C++, Java, JavaScript, SQL, DSA, HTML & CSS... and guess what? Tech loves me back 💻❤️  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-shrimali-0abb9b348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@NinjaAnimate2147) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chiragshrimali2147@gmail.com) 
