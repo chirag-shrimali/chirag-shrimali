@@ -8,7 +8,7 @@ Email Me 👉 ✉️ chiragshrimali0411@gmail.com For Collaboration/Project or A
 🔭 2nd Year Computer Engineering Student 
 
 🌱 Currently learning & exploring:  
-   - C++ | Java | JavaScript | SQL | DSA  
+   - C++ | Java | JavaScript | SQL | DSA  | PYTHON
 💡 Already worked with:  
    - C | HTML | CSS
 
