@@ -34,7 +34,7 @@ Email Me 👉 ✉️ chiragshrimali0411@gmail.com For Collaboration/Project or A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chirag-shrimali&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chirag-shrimali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=chirag-shrimali&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fjnzue4q3vah2brftwh3m.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
