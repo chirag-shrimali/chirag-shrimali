@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Chirag Shrimali
 A passionate Engineer || Frontend Developer from India
 
-<img align="right" alt="coding" width="350" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md">
+<img align="right" alt="coding" width="350" src = "https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
 Email Me 👉 ✉️ chiragshrimali0411@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
